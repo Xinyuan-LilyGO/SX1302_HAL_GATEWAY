@@ -1,3 +1,6 @@
+> :warning: This repository is no longer maintained. For follow-up related questions, please move to https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series/blob/master/docs/en/LilyGo_LoRa_Series_Quick_Start_On_TTN.md
+
+
 SX1302_HAL_GATEWAY
 
 ========================
